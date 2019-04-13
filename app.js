@@ -20,6 +20,7 @@ app.get("/eap", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 
+  scrape();
   //scrape every three hours
   setInterval(scrape, 10800000);
 });
