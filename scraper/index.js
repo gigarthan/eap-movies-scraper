@@ -64,6 +64,7 @@ const scrape = async () => {
       offers: offersList
     };
 
+    await db.clear();
     const id = await db.save(data);
     console.log("saved id", id);
   } catch (error) {
