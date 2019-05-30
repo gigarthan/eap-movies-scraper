@@ -1,1 +1,94 @@
-{}
+{
+  "44x4Px": {
+    "key": "eap",
+    "upcoming": [
+      {
+        "name": "Godzilla King of the Monsters ...",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_789/movies_789_5c94851541be3_poster.jpg"
+      },
+      {
+        "name": "Toy Story 4",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_790/movies_790_5c9488031cc25_poster.jpg"
+      },
+      {
+        "name": "The Lion King",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_791/movies_791_5c9492416e734_poster.jpg"
+      },
+      {
+        "name": "SpiderMan Far From Home",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_815/movies_815_5cd3a8f7160bc_Spider-Man-Poster.jpg"
+      },
+      {
+        "name": "Gajaman - 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_819/movies_819_5cdaa0d159730_Gajaman_Poster.jpg"
+      },
+      {
+        "name": "Vijayaba Kollaya - 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_821/movies_821_5ce3db7fa17ec_Vijayaba_Kollaya_Poster.jpg"
+      },
+      {
+        "name": "Men in Black International",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_822/movies_822_5ce3e077869d7_poster.jpg"
+      },
+      {
+        "name": "Lisaa - 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_824/movies_824_5ce4f18c243b1_poster.jpg"
+      },
+      {
+        "name": "Rocketman",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_827/movies_827_5ce545aa2b109_poster.jpg"
+      },
+      {
+        "name": "Devi 2",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_828/movies_828_5cecc239cb151_devi2_poster.jpg"
+      },
+      {
+        "name": "NGK",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_829/movies_829_5cecc3f3d5fa9_ngk_poster.jpg"
+      }
+    ],
+    "nowShowing": [
+      {
+        "name": "Aladdin - 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_776/movies_776_5ce4ff0fb0726_aladdin_poster.jpg"
+      },
+      {
+        "name": "Avengers Endgame - 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_775/movies_775_5cad7f661ff56_poster.jpg"
+      },
+      {
+        "name": "Brightburn",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_823/movies_823_5ce4ddb5f166f_poster.jpg"
+      },
+      {
+        "name": "Neeya 2",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_825/movies_825_5ce4fc5a52789_Neeya_2_Poster.jpg"
+      },
+      {
+        "name": "Aladdin - Tamil 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_826/movies_826_5ce4fee261c59_Aladdin_PosterT.jpg"
+      },
+      {
+        "name": "Mr Local",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_817/movies_817_5cd972957f275_poster.jpg"
+      },
+      {
+        "name": "Suba Theraniyo",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_816/movies_816_5cd9403a8701f_Suba-Theraniyo_Poster.jpg"
+      },
+      {
+        "name": "Weli Pawuru",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_804/movies_804_5cb03ea7e96f6_poster.jpg"
+      },
+      {
+        "name": "Dumbo - 3D",
+        "imageUrl": "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/movies/movies_757/movies_757_5c487731c4871_Dumbo.jpg"
+      }
+    ],
+    "offers": [
+      "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/offers/offers_13/offers_13_5c624ee61b2dc_DFCC_Offer_Thumb.jpg",
+      "https://y3k7n9q4.stackpathcdn.com/components/com_eapmovies/includes/images/offers/offers_12/offers_12_5b87b841dcc78_UBOffer_Thumb.jpg"
+    ],
+    "id": "44x4Px"
+  }
+}
