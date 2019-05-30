@@ -73,3 +73,4 @@ const scrape = async () => {
 };
 
 module.exports = scrape;
+scrape();
